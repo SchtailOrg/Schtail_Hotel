@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu lang="de">
+	<item what="hotel">
+		<title>Das Hotel</title>
+		<about>
+			<name>Pal Crom Moarnof</name>
+			<description>Lorem ipsum dolor sit schtailet</description>
+		</about>
+		<pic>http://url-des.bildes</pic>
+	</item>
+	<item what="wellness">
+		<title>Wellness in Tirol</title>
+		<description>Lorem ipsum dolor sit schtailet</description>
+		<pic>muss net unbedingt sein</pic>
+	</item>
+	<item what="events">
+		<title>Events</title>
+		<nextevent>
+			<name>Red Bull Skicross</name>
+			<place>Olang</place>
+			<date>2015-05-22</date>
+			<timestart>16:00:00</timestart>
+			<timeend>19:00:00</timeend>
+			<description>Lorem ipsum dolor sit schtailet</description>
+			<pic>muss net unbedingt sein</pic>
+		</nextevent>
+	</item>
+	<item what="wetter">
+		<title>Wetter</title>
+		<description>Heute sonnig morgen auch nicht</description>
+		<pic>http://bin-a.wolke</pic>
+	</item>
+</menu>
