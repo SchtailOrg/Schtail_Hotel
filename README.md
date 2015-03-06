@@ -1,2 +1,1 @@
-# Schtail Hotel Management System
-Work currently in progress
+# Schtail Hotel Info Management System
